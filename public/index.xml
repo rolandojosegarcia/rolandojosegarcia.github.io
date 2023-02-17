@@ -1,0 +1,339 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rolando – Rolando</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <image>
+      <url>http://localhost:1313/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+		  <atom:link href="http://localhost:1313/index.xml" rel='self' type="application/rss+xml" />
+    
+    
+    <item>
+      <title>: FAQ</title>
+      <link>http://localhost:1313/faq/</link>
+      <pubDate>Mon, 13 Nov 2017 15:33:35 +0100</pubDate>
+      
+      <guid>http://localhost:1313/faq/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Pellentesque
+&lt;!-- raw HTML omitted --&gt;habitant&lt;!-- raw HTML omitted --&gt;
+morbi tristique senectus et
+&lt;!-- raw HTML omitted --&gt;netus&lt;!-- raw HTML omitted --&gt;
+netus et malesuada
+fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae,
+ultricies eget, tempor sit amet, ante.&lt;/p&gt;
+&lt;p&gt;
+&lt;span class=&#39;fas fa-home fa-2x&#39; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+ Donec eu libero sit amet quam
+egestas semper. Aenean ultricies mi vitae est. Mauris placerat
+eleifend leo.&lt;/p&gt;
+&lt;h2 id=&#34;1-phasellus-at-dui-in-ligula-mollis-ultricies&#34;&gt;1. Phasellus at dui in ligula mollis ultricies?&lt;/h2&gt;
+&lt;p&gt;Fusce suscipit, wisi nec
+&lt;!-- raw HTML omitted --&gt;facilisi &lt;!-- raw HTML omitted --&gt;
+est dui
+fermentum leo, quis tempor ligula erat quis odio.
+&lt;!-- raw HTML omitted --&gt;Nunc&lt;!-- raw HTML omitted --&gt;
+porta vulputate tellus. Nunc rutrum
+turpis sed pede. Sed bibendum. Aliquam posuere. Nunc aliquet, augue
+nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi
+purus non odio. Pellentesque condimentum, magna ut suscipit hendrerit,
+ipsum augue ornare nulla, non luctus diam neque sit amet
+urna. Curabitur vulputate vestibulum lorem. Fusce sagittis, libero non
+molestie mollis, magna orci ultrices dolor, at vulputate neque nulla
+lacinia eros. Sed id ligula quis est convallis tempor.  Curabitur
+lacinia pulvinar nibh.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;2-nunc-rutrum-turpis-sed-pede&#34;&gt;2. Nunc rutrum turpis sed pede?&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec
+hendrerit tempor tellus. Donec pretium posuere tellus. Proin quam
+nisl, tincidunt et, mattis eget, convallis nec, purus. Cum sociis
+natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+mus. Nulla posuere. Donec vitae dolor. Nullam tristique diam non
+turpis. Cras placerat accumsan nulla. Nullam rutrum.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Nulla facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et dictum nunc justo sit amet elit.&lt;/li&gt;
+&lt;li&gt;Nullam tristique diam non turpis.&lt;/li&gt;
+&lt;li&gt;Etiam laoreet quam sed arcu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-cum-sociis-natoque-penatibus-et-magnis-dis-parturient-montes-nascetur-ridiculus-mus&#34;&gt;3. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus?&lt;/h2&gt;
+&lt;p&gt;Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus
+terry richardson ad squid. 3 wolf moon officia aute, non cupidatat
+skateboard dolor brunch.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred
+nesciunt sapiente ea proident. Ad vegan excepteur butcher vice
+lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic
+synth nesciunt you probably haven&amp;rsquo;t heard of them accusamus labore
+sustainable VHS.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;4-pellentesque-tristique-imperdiet-tortor&#34;&gt;4. Pellentesque tristique imperdiet tortor?&lt;/h2&gt;
+&lt;p&gt;Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non
+orci commodo lobortis.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Proin neque massa, cursus ut, gravida ut, lobortis eget, lacus. Sed
+diam. Praesent fermentum tempor tellus.  Nullam tempus. Mauris ac
+felis vel velit tristique imperdiet. Donec at pede. Etiam vel neque
+nec dui dignissim bibendum. Vivamus id enim. Phasellus neque orci,
+porta a, aliquet quis, semper a, massa.  Phasellus purus. Pellentesque
+tristique imperdiet tortor. Nam euismod tellus id erat.&lt;/p&gt;
+&lt;p&gt;
+&lt;script src=&#39;http://localhost:1313//vendor/jquery/jquery-3.4.1.slim.min.js&#39;&gt;&lt;/script&gt;
+&lt;script src=&#39;http://localhost:1313//vendor/liwenyip/hugo-easy-gallery/js/load-photoswipe.js&#39;&gt;&lt;/script&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#39;http://localhost:1313/vendor/photoswipe/photoswipe.css&#39; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#39;http://localhost:1313/vendor/photoswipe/default-skin/default-skin.css&#39; /&gt;
+&lt;script src=&#39;http://localhost:1313//vendor/photoswipe/photoswipe.min.js&#39;&gt;      &lt;/script&gt;
+&lt;script src=&#39;http://localhost:1313//vendor/photoswipe/photoswipe-ui-theme.js&#39;&gt; &lt;/script&gt;
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#39;http://localhost:1313/vendor/liwenyip/hugo-easy-gallery/css/hugo-easy-gallery.css&#39; /&gt;
+
+&lt;div class=&#39;box fancy-figure caption-position-bottom caption-effect-appear&#39; style=&#39;max-width:200px&#39;&gt;
+  &lt;figure  itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;associatedMedia&#34; src=&#39;http://localhost:1313/images/teaserpics/pixabay.com/coffee-2306471_640-thumb.jpg&#39; alt=&#39;Coffee&#39;/&gt;
+    &lt;/div&gt;
+    &lt;a itemprop=&#34;associatedMedia&#34; href=&#39;http://localhost:1313/images/teaserpics/pixabay.com/coffee-2306471_640.jpg&#39; &gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Hej&lt;/h4&gt;&lt;p&gt;Coffee&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#39;box fancy-figure caption-position-bottom caption-effect-appear&#39; style=&#39;max-width:200px&#39;&gt;
+  &lt;figure  itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;associatedMedia&#34; src=&#39;http://localhost:1313/images/teaserpics/pixabay.com/coffee-2714970_640-thumb.jpg&#39; alt=&#39;Coffee&#39;/&gt;
+    &lt;/div&gt;
+    &lt;a itemprop=&#34;associatedMedia&#34; href=&#39;http://localhost:1313/images/teaserpics/pixabay.com/coffee-2714970_640.jpg&#39; &gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;p&gt;Coffee&lt;/p&gt;
+        &lt;footer&gt;&lt;small&gt;(c) pixabay.com (CC0)&lt;/small&gt;&lt;/footer&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#39;box fancy-figure caption-position-bottom caption-effect-appear&#39; style=&#39;max-width:200px&#39;&gt;
+  &lt;figure  itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;associatedMedia&#34; src=&#39;http://localhost:1313/images/teaserpics/pixabay.com/coffee-beans-2258839_640-thumb.jpg&#39; alt=&#39;Coffee&#39;/&gt;
+    &lt;/div&gt;
+    &lt;a itemprop=&#34;associatedMedia&#34; href=&#39;http://localhost:1313/images/teaserpics/pixabay.com/coffee-beans-2258839_640.jpg&#39; &gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;p&gt;Coffee&lt;/p&gt;
+        &lt;footer&gt;&lt;small&gt;&lt;a href=&#39;https://pixabay.com&#39;&gt;(c) pixabay.com (CC0)&lt;/a&gt;&lt;/small&gt;&lt;/footer&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;5-nulla-posuere&#34;&gt;5. Nulla posuere?&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec
+hendrerit tempor tellus.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Donec pretium posuere tellus. Natoque penatibus et magnis dis
+parturient montes, nascetur ridiculus mus. Nulla posuere. Donec vitae
+dolor. Nullam tristique diam non turpis. Cras placerat accumsan
+nulla. Nullam rutrum. Nam vestibulum accumsan nisl.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi purus non odio.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#39;gallery caption-position-bottom caption-effect-none hover-effect-grow hover-transition&#39; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+        &lt;div class=&#34;box&#34;&gt;
+          &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+            &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//images/photocards/pixabay.com/01-photocard-thumb.jpg&#39;);&#34; &gt;
+              &lt;a itemprop=&#34;associatedMedia&#34; href=&#39;http://localhost:1313//images/photocards/pixabay.com/01-photocard.jpg&#39; &gt;
+                &lt;img src=&#39;http://localhost:1313//images/photocards/pixabay.com/01-photocard-thumb.jpg&#39; alt=&#39;01-photocard.jpg&#39; /&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;figcaption&gt;
+              &lt;p&gt;01-photocard.jpg&lt;/p&gt;
+            &lt;/figcaption&gt;
+          &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;box&#34;&gt;
+          &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+            &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//images/photocards/pixabay.com/02-photocard-thumb.jpg&#39;);&#34; &gt;
+              &lt;a itemprop=&#34;associatedMedia&#34; href=&#39;http://localhost:1313//images/photocards/pixabay.com/02-photocard.jpg&#39; &gt;
+                &lt;img src=&#39;http://localhost:1313//images/photocards/pixabay.com/02-photocard-thumb.jpg&#39; alt=&#39;02-photocard.jpg&#39; /&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;figcaption&gt;
+              &lt;p&gt;02-photocard.jpg&lt;/p&gt;
+            &lt;/figcaption&gt;
+          &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;box&#34;&gt;
+          &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+            &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//images/photocards/pixabay.com/03-photocard-thumb.jpg&#39;);&#34; &gt;
+              &lt;a itemprop=&#34;associatedMedia&#34; href=&#39;http://localhost:1313//images/photocards/pixabay.com/03-photocard.jpg&#39; &gt;
+                &lt;img src=&#39;http://localhost:1313//images/photocards/pixabay.com/03-photocard-thumb.jpg&#39; alt=&#39;03-photocard.jpg&#39; /&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;figcaption&gt;
+              &lt;p&gt;03-photocard.jpg&lt;/p&gt;
+            &lt;/figcaption&gt;
+          &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;box&#34;&gt;
+          &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+            &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//images/photocards/pixabay.com/04-photocard-thumb.jpg&#39;);&#34; &gt;
+              &lt;a itemprop=&#34;associatedMedia&#34; href=&#39;http://localhost:1313//images/photocards/pixabay.com/04-photocard.jpg&#39; &gt;
+                &lt;img src=&#39;http://localhost:1313//images/photocards/pixabay.com/04-photocard-thumb.jpg&#39; alt=&#39;04-photocard.jpg&#39; /&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;figcaption&gt;
+              &lt;p&gt;04-photocard.jpg&lt;/p&gt;
+            &lt;/figcaption&gt;
+          &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;box&#34;&gt;
+          &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+            &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//images/photocards/pixabay.com/05-photocard-thumb.png&#39;);&#34; &gt;
+              &lt;a itemprop=&#34;associatedMedia&#34; href=&#39;http://localhost:1313//images/photocards/pixabay.com/05-photocard.png&#39; &gt;
+                &lt;img src=&#39;http://localhost:1313//images/photocards/pixabay.com/05-photocard-thumb.png&#39; alt=&#39;05-photocard.png&#39; /&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;figcaption&gt;
+              &lt;p&gt;05-photocard.png&lt;/p&gt;
+            &lt;/figcaption&gt;
+          &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;box&#34;&gt;
+          &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+            &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//images/photocards/pixabay.com/06-photocard-thumb.jpg&#39;);&#34; &gt;
+              &lt;a itemprop=&#34;associatedMedia&#34; href=&#39;http://localhost:1313//images/photocards/pixabay.com/06-photocard.jpg&#39; &gt;
+                &lt;img src=&#39;http://localhost:1313//images/photocards/pixabay.com/06-photocard-thumb.jpg&#39; alt=&#39;06-photocard.jpg&#39; /&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;figcaption&gt;
+              &lt;p&gt;06-photocard.jpg&lt;/p&gt;
+            &lt;/figcaption&gt;
+          &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;box&#34;&gt;
+          &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+            &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//images/photocards/pixabay.com/07-photocard-thumb.jpg&#39;);&#34; &gt;
+              &lt;a itemprop=&#34;associatedMedia&#34; href=&#39;http://localhost:1313//images/photocards/pixabay.com/07-photocard.jpg&#39; &gt;
+                &lt;img src=&#39;http://localhost:1313//images/photocards/pixabay.com/07-photocard-thumb.jpg&#39; alt=&#39;07-photocard.jpg&#39; /&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;figcaption&gt;
+              &lt;p&gt;07-photocard.jpg&lt;/p&gt;
+            &lt;/figcaption&gt;
+          &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;box&#34;&gt;
+          &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+            &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//images/photocards/pixabay.com/08-photocard-thumb.jpg&#39;);&#34; &gt;
+              &lt;a itemprop=&#34;associatedMedia&#34; href=&#39;http://localhost:1313//images/photocards/pixabay.com/08-photocard.jpg&#39; &gt;
+                &lt;img src=&#39;http://localhost:1313//images/photocards/pixabay.com/08-photocard-thumb.jpg&#39; alt=&#39;08-photocard.jpg&#39; /&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;figcaption&gt;
+              &lt;p&gt;08-photocard.jpg&lt;/p&gt;
+            &lt;/figcaption&gt;
+          &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;box&#34;&gt;
+          &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+            &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//images/photocards/pixabay.com/09-photocard-thumb.jpg&#39;);&#34; &gt;
+              &lt;a itemprop=&#34;associatedMedia&#34; href=&#39;http://localhost:1313//images/photocards/pixabay.com/09-photocard.jpg&#39; &gt;
+                &lt;img src=&#39;http://localhost:1313//images/photocards/pixabay.com/09-photocard-thumb.jpg&#39; alt=&#39;09-photocard.jpg&#39; /&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;figcaption&gt;
+              &lt;p&gt;09-photocard.jpg&lt;/p&gt;
+            &lt;/figcaption&gt;
+          &lt;/figure&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;6-praesent-fermentum-tempor&#34;&gt;6. Praesent fermentum tempor&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Right&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Center&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Left&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;default&lt;/th&gt;
+&lt;th&gt;is left&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;42&lt;/td&gt;
+&lt;td&gt;foo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
